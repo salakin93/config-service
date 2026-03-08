@@ -4,4 +4,3 @@ build
 .gitignore
 node_modules
 *.log
-*.pem
